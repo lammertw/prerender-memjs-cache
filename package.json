@@ -1,0 +1,28 @@
+{
+  "name": "prerender-memjs-cache",
+  "version": "0.0.1",
+  "description": "Prerender plugin for memjs caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lammertw/prerender-memjs-cache.git"
+  },
+  "keywords": [
+    "prerender",
+    "memjs",
+    "cache",
+    "MemCachier"
+  ],
+  "author": "Lammert Westerhoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lammertw/prerender-memjs-cache/issues"
+  },
+  "homepage": "https://github.com/lammertw/prerender-memjs-cache",
+  "dependencies": {
+    "memjs": "~0.8.3"
+  }
+}
